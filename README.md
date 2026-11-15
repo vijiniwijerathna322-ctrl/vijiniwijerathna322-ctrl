@@ -2,7 +2,7 @@
 
 # Hi, I'm Vijini 👋
 
-**Data Science Undergraduate · Python · ML · Power BI · AI Enthusiast**
+**Data Science Undergraduate · Python · ML · Power BI · AI Enthusiast**<br>
 Building real-world data solutions — from messy data to dashboards, models and deployed tools.
 
 ![Profile views](https://komarev.com/ghpvc/?username=vijiniwijerathna322-ctrl&label=Profile%20views&color=6683ca&style=flat)
@@ -58,25 +58,6 @@ Building real-world data solutions — from messy data to dashboards, models and
 | [**Carbon-Aware Scheduler**](https://github.com/vijiniwijerathna322-ctrl/carbon-aware-scheduler) | Carbon-aware energy scheduler with calibrated grid forecasts. | Python |
 | [**PowerBI Product Inventory Dashboard**](https://github.com/vijiniwijerathna322-ctrl/PowerBI-Product-Inventory-Dashboard) | Power BI project covering product inventory, stock analysis, pricing, ratings, warranty and product performance. | Power BI |
 | [**Space Exploration For Kids**](https://github.com/vijiniwijerathna322-ctrl/Space-Exploratio-For-Kids) | A space-exploration project for kids, built with HTML. | HTML |
-
-## 📊 GitHub stats
-
-<div align="center">
-
-<a href="https://github.com/vijiniwijerathna322-ctrl">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vijiniwijerathna322-ctrl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-    <img alt="Vijini's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=vijiniwijerathna322-ctrl&show_icons=true&theme=default&hide_border=true&count_private=true" height="170">
-  </picture>
-</a>
-<a href="https://github.com/vijiniwijerathna322-ctrl">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vijiniwijerathna322-ctrl&layout=compact&theme=tokyonight&hide_border=true">
-    <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijiniwijerathna322-ctrl&layout=compact&theme=default&hide_border=true" height="170">
-  </picture>
-</a>
-
-</div>
 
 ## 🤝 Let's connect
 
