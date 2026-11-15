@@ -61,14 +61,7 @@ Building real-world data solutions — from messy data to dashboards, models and
 
 ## 🤝 Let's connect
 
-<!--
-  Add your own links here, then delete this comment. Examples:
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-HANDLE)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-6683ca?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR-SITE)
--->
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijini-wijerathna-672250358)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vijiniwijerathna322-ctrl)
 
 <div align="center">
